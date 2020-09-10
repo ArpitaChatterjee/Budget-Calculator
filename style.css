@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'Gilroy';
-    src: url('/font/KiteOne-Regular.ttf') format('ttf');
+    src: url('font/KiteOne-Regular.ttf') format('ttf');
     font-weight: bold;
     font-style: normal;
 }
 @font-face {
     font-family: 'Gilroy Bold';
-    src: url('/font/Satisfy-Regular.ttf') format('ttf');
+    src: url('font/Satisfy-Regular.ttf') format('ttf');
     font-weight: bold;
     font-style: normal;
 }
